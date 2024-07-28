@@ -24,9 +24,9 @@ How to Run:
 
 File Structure:
 
-- index.html - main HTML file
-- styles.css - CSS file for styling
-- script.js - JavaScript file for functionality
+- calc.html - main HTML file
+- cal.css - CSS file for styling
+- calci.js - JavaScript file for functionality
 
 OUTPUT:
       URL: ![image](https://github.com/user-attachments/assets/e4c2546c-e6aa-4326-9feb-ae3b9065f738)
