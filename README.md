@@ -1,4 +1,4 @@
-# CODESOFT_CALCULATOR
+# CODSOFT_CALCULATOR
 
 Calculator Project
 
